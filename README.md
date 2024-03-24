@@ -6,20 +6,21 @@
 - 📫 Reach me at  [gsonwu@gmail.com](mailto:gsonwu@gmail.com)
 
 
-## About Me
+## Research Interest
+'Computational Neuroscience' 'MRI technology' 'CV in medical imaging' 'Optimization theory'
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Education
+1. In progress (expected graduation 06/2025)
+■ University of Southern California - Los Angeles, California, America
+​```
+MS in Biomedical Engineering
+​```
+
+
 
 ## Connect with Me
 
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [Email](mailto:gsonwu@gmail.com)
+- [Curriculum Vitae](https://www.overleaf.com/read/knhkpgqkmthk#694ad0)
+- [Twitter](https://twitter.com/home)
 
