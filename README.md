@@ -26,11 +26,22 @@ MS in Biomedical Engineering
 BS in Biomedical Engineering
 ​```
 
+## Research Experiences
+1. Neural Computing and Control Laboratory. Supervisor: [Prof. Quanying Liu](https://faculty.sustech.edu.cn/?tagid=liuqy&go=1&iscss=1&snapid=1&lang=en)
+2. Fan Magnetic Resonance (MR) Imaging Research Lab. Supervisor: [Prof. Fan zhaoyang](https://profiles.sc-ctsi.org/zhaoyang.fan)
+
+
+## Ongoing Projects
+1. Network control theory to identify the critical nodes and input signals from task fMRI.
+2. Use LWI to detect the prostate cancer in MRI iamges.
+3. Use radiomics and deep learning to predict the pituitary adenoma consistency.
+
+
 
 
 ## Connect with Me
 
-- [Email](mailto:gsonwu@gmail.com)
+- [gsonwu@gmail.com](mailto:gsonwu@gmail.com)
 - [Curriculum Vitae](https://www.overleaf.com/read/knhkpgqkmthk#694ad0)
 - [Twitter](https://twitter.com/home)
 
