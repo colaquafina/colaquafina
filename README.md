@@ -12,8 +12,7 @@
 ## Education
 1. In progress (expected graduation 06/2025)
    
-   ■ University of Southern California - Los Angeles, California, America
-
+■ University of Southern California - Los Angeles, California, America
 ​```
 MS in Biomedical Engineering
 ​```
