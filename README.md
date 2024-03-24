@@ -10,8 +10,8 @@
 `Computational Neuroscience` `MRI technology` `CV in medical imaging` `Optimization theory`
 
 ## Education
-1. In progress (expected graduation 06/2025)
-■ University of Southern California - Los Angeles, California, America
+1. In progress (expected graduation 06/2025)\\
+■ University of Southern California - Los Angeles, California, America\\
 ​```
 MS in Biomedical Engineering
 ​```
