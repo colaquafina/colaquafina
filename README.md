@@ -3,7 +3,7 @@
 - Welcome to my GitHub profile!
 - 🤔 I am a master student in Biomedical Engineering, working with [Prof. Fan zhaoyang](https://profiles.sc-ctsi.org/zhaoyang.fan) at the [Fan Magnetic Resonance (MR) Imaging Research Lab](https://sites.usc.edu/fan-mri-lab/) at the University of Southern California, Los Angeles, America.
 - "Attendre et espérer.”
-- 📫 Reach me at  [gsonwu@gmail.com](gsonwu@gmail.com)
+- 📫 Reach me at  [gsonwu@gmail.com](mailto:gsonwu@gmail.com)
 
 
 ## About Me
