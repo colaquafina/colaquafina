@@ -7,7 +7,7 @@
 
 
 ## Research Interest
-'Computational Neuroscience' 'MRI technology' 'CV in medical imaging' 'Optimization theory'
+`Computational Neuroscience` `MRI technology` `CV in medical imaging` `Optimization theory`
 
 ## Education
 1. In progress (expected graduation 06/2025)
