@@ -31,10 +31,13 @@ BS in Biomedical Engineering
 2. Fan Magnetic Resonance (MR) Imaging Research Lab. Supervisor: [Prof. Fan zhaoyang](https://profiles.sc-ctsi.org/zhaoyang.fan)
 
 
-## Ongoing Projects
+## Ongoing Research Projects
 1. Network control theory to identify the critical nodes and input signals from task fMRI.
 2. Use LWI to detect the prostate cancer in MRI iamges.
 3. Use radiomics and deep learning to predict the pituitary adenoma consistency.
+
+## Interests
+🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano, 🕺Street Dance
 
 
 
