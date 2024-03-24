@@ -1,7 +1,7 @@
 # Hello, I'm Gson
 
-Welcome to my GitHub profile!
-🤔 I am a master student in Biomedical Engineering, working with [Prof. Fan zhaoyang]([https://fan-mri-lab.usc.edu/](https://profiles.sc-ctsi.org/zhaoyang.fan) at the [Fan Magnetic Resonance (MR) Imaging Research Lab](https://sites.usc.edu/fan-mri-lab/) at the University of Southern California, Los Angeles, America.
+- Welcome to my GitHub profile!
+- 🤔 I am a master student in Biomedical Engineering, working with [Prof. Fan zhaoyang]([https://fan-mri-lab.usc.edu/](https://profiles.sc-ctsi.org/zhaoyang.fan) at the [Fan Magnetic Resonance (MR) Imaging Research Lab](https://sites.usc.edu/fan-mri-lab/) at the University of Southern California, Los Angeles, America.
 
 
 ## About Me
