@@ -13,8 +13,17 @@
 1. In progress (expected graduation 06/2025)
    
 ■ University of Southern California - Los Angeles, California, America
+
 ​```
 MS in Biomedical Engineering
+​```
+
+2. 09/2019 - 06/2023
+
+■ Southern University of Science and Technology (SusTech) - Shenzheng, Guangdong, China
+
+​```
+BS in Biomedical Engineering
 ​```
 
 
