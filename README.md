@@ -14,9 +14,9 @@
    
    ■ University of Southern California - Los Angeles, California, America
 
-   ​```
-   MS in Biomedical Engineering
-   ​```
+​```
+MS in Biomedical Engineering
+​```
 
 
 
