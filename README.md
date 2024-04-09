@@ -14,7 +14,6 @@
    
    **University of Southern California (USC)**
    - **Degree:** Master of Science in Biomedical Engineering
-   - **Dates Attended:** September 2023 - June 2025 (Expected)
    - **Location:** Los Angeles, California, USA
    - **GPA:** 4.0/4.0 (if applicable)
    - **Thesis/Dissertation:** (if applicable) Title of your thesis/dissertation
@@ -23,7 +22,6 @@
 
  **Southern University of Science and Technology (SUSTech)**
    - **Degree:** Bachelor of Science in Biomedical Engineering
-   - **Dates Attended:** September 2019 - June 2023
    - **Location:** Shenzhen, Guangdong, China
    - **GPA:** 3.5/4.0 (if applicable)
    - **Thesis:** Title of your undergraduate thesis (if applicable)
@@ -41,7 +39,11 @@
    - **Method**: We constructed a linear model to model the brain network and then used the pinning control strategy to input energy to the model, forcing the model output to track the real fMRI signals and optimize the node selectionsand input energy. We proposed to use the Half-Quadratic Splitting algorithm to solve the optimized model and analyze the controllability of the brain structure to determine how the brain balances energy consumption and neural circuit integration
    
 2. Use LWI to detect the prostate cancer in MRI iamges.
+   - **About**: In the MRI images, the T2 relaxation process of tissues can be described by a multiexponential model.Several studies have shown that quantitative analyses of multiexponential T2 relaxation can provide tissuespecific information for diagnostic applications. Luminal water imaging (LWI) is a new application of multiexponential T2 mapping to detect the prostate cancer.
+   - **Method**: We construct a multiexponential model and use the prostate MRI data from healthy volunteers to optimize the model. Then we would use the model in the prostate cancer patients volunteer to validate if the model works.
 3. Use radiomics and deep learning to predict the pituitary adenoma consistency.
+   - **About**: Pituitary macroadenoma consistency can influence the ease of lesion removal during surgery, especially when using a transsphenoidal approach. Unfortunately, it is not assessable on standard qualitative MRI. In this research, we want to combine radiomics, deep learning, and transfer learning to solve this problem with MRI images.
+   - **Method**: For radiomics part, We collect the MRI images of pituitary adenoma of patients and preprocess the images. Then we use Pyradiomics to extract the features from the images and then use the Extra Tree Classifier to determine adenoma consistency. For the deep learning part, we use the U-net to extract the image features, then we freeze the parameters of the down-sampling and use the output of the U-net down sampling as the input of a classifier model to predict the adenoma consistency. We can get the classification result by combining results from two paths
 
 ## Interests
 🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano, 🕺Street Dance
