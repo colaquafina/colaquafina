@@ -20,7 +20,7 @@
 
 2. 09/2019 - 06/2023
 
- **Southern University of Science and Technology (SUSTech)**
+   **Southern University of Science and Technology (SUSTech)**
    - **Degree:** Bachelor of Science in Biomedical Engineering
    - **Location:** Shenzhen, Guangdong, China
    - **GPA:** 3.5/4.0 (if applicable)
