@@ -15,8 +15,7 @@
    **University of Southern California (USC)**
    - **Degree:** Master of Science in Biomedical Engineering
    - **Location:** Los Angeles, California, USA
-   - **GPA:** 4.0/4.0 (if applicable)
-   - **Thesis/Dissertation:** (if applicable) Title of your thesis/dissertation
+   - **GPA:** 4.0/4.0 
 
 2. 09/2019 - 06/2023
 
@@ -24,7 +23,7 @@
    - **Degree:** Bachelor of Science in Biomedical Engineering
    - **Location:** Shenzhen, Guangdong, China
    - **GPA:** 3.5/4.0 (if applicable)
-   - **Thesis:** Title of your undergraduate thesis (if applicable)
+   - **Thesis:** Network control theory to identify the critical nodes and input signals from task fMRI
 
 
 
@@ -47,10 +46,6 @@
 
 ## Interests
 🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano, 🕺Street Dance
-
-## Online Course
-
-
 
 
 ## Connect with Me
