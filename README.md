@@ -45,6 +45,16 @@
    - *About*: Pituitary macroadenoma consistency can influence the ease of lesion removal during surgery, especially when using a transsphenoidal approach. Unfortunately, it is not assessable on standard qualitative MRI. In this research, we want to combine radiomics, deep learning, and transfer learning to solve this problem with MRI images.
    - *Method*: For radiomics part, We collect the MRI images of pituitary adenoma of patients and preprocess the images. Then we use Pyradiomics to extract the features from the images and then use the Extra Tree Classifier to determine adenoma consistency. For the deep learning part, we use the U-net to extract the image features, then we freeze the parameters of the down-sampling and use the output of the U-net down sampling as the input of a classifier model to predict the adenoma consistency. We can get the classification result by combining results from two paths
 
+## Publications
+
+Here are some of my research papers and articles published in scientific journals and conferences:
+
+1. **Title of Your First Publication**
+   - **Authors:** Your Name, Co-author's Name, etc.
+   - **Published In:** Journal/Conference Name, Year
+   - **Abstract:** Brief summary of the paper. (You can keep this to a few sentences or provide a detailed abstract, depending on your preference.)
+   - **Link:** [Read the paper](URL_to_paper)
+
 ## Interests
 🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano, 🕺Street Dance
 
