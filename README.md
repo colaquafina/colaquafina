@@ -49,11 +49,16 @@
 
 Here are some of my research papers and articles published in scientific journals and conferences:
 
-1. **Title of Your First Publication**
-   - **Authors:** Your Name, Co-author's Name, etc.
-   - **Published In:** Journal/Conference Name, Year
-   - **Abstract:** Brief summary of the paper. (You can keep this to a few sentences or provide a detailed abstract, depending on your preference.)
-   - **Link:** [Read the paper](URL_to_paper)
+1. **Reverse engineering the brain input: Network control theory to identify cognitive task-related control nodes**
+   - **Authors:** Zhichao Liang, Yinuo Zhang, **Jushen Wu**.
+   - **Published In:** IEEE Engineering in Medicine and Biology Society, 2024
+
+### Recent Submissions
+
+- **Network control theory to identify the critical nodes and input signals from task fMRI**
+  - **Submitted to:** Neuroimage
+  - **Co-authors:** Zhichao Liang, **Jushen Wu**, Yinuo Zhang
+  - **Status:** Under review
 
 ## Interests
 🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano, 🕺Street Dance
