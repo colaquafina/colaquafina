@@ -22,7 +22,7 @@
    **Southern University of Science and Technology (SUSTech)**
    - **Degree:** Bachelor of Science in Biomedical Engineering
    - **Location:** Shenzhen, Guangdong, China
-   - **GPA:** 3.5/4.0 (if applicable)
+   - **GPA:** 3.5/4.0 
    - **Thesis:** Network control theory to identify the critical nodes and input signals from task fMRI
 
 
