@@ -55,7 +55,7 @@ Here are some of my research papers and articles published in scientific journal
 
 ### Recent Submissions
 
-- **Network control theory to identify the critical nodes and input signals from task fMRI**
+1. **Network control theory to identify the critical nodes and input signals from task fMRI**
   - **Submitted to:** Neuroimage
   - **Co-authors:** Zhichao Liang, **Jushen Wu**, Yinuo Zhang
   - **Status:** Under review
