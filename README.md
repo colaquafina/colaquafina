@@ -61,7 +61,7 @@ Here are some of my research papers and articles published in scientific journal
   - **Status:** Under review
 
 ## Interests
-🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano, 🕺Street Dance
+🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano, 🕺Street Dance， 🏀Basketball
 
 
 ## Connect with Me
