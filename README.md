@@ -68,5 +68,5 @@ Here are some of my research papers and articles published in scientific journal
 
 - [gsonwu@gmail.com](mailto:gsonwu@gmail.com)
 - [Curriculum Vitae](https://www.overleaf.com/read/knhkpgqkmthk#694ad0)
-- [Twitter](https://twitter.com/home)
+- [[Twitter](https://twitter.com/home)](https://x.com/jushenwu)
 
