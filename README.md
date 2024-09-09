@@ -50,18 +50,18 @@
 Here are some of my research papers and articles published in scientific journals and conferences:
 
 1. **Reverse engineering the brain input: Network control theory to identify cognitive task-related control nodes**
-   - **Authors:** Zhichao Liang, Yinuo Zhang, **Jushen Wu**.
+   - **Authors:** Zhichao Liang, Yinuo Zhang, **Jushen Wu**, Quanying Liu
    - **Published In:** IEEE Engineering in Medicine and Biology Society, 2024
 
 ### Recent Submissions
 
 1. **Network control theory to identify the critical nodes and input signals from task fMRI**
   - **Submitted to:** Neuroimage
-  - **Co-authors:** Zhichao Liang, **Jushen Wu**, Yinuo Zhang
+  - **Co-authors:** Zhichao Liang, **Jushen Wu**, Yinuo Zhang, Quanying Liu
   - **Status:** Under review
 
 ## Interests
-🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano,🕺Street Dance, 🏀Basketball
+🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano,🕺Breaking, 🏀Basketball
 
 
 ## Connect with Me
