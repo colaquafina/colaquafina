@@ -30,6 +30,7 @@
 ## Research Experiences
 1. Neural Computing and Control Laboratory. Supervisor: [Prof. Quanying Liu](https://faculty.sustech.edu.cn/?tagid=liuqy&go=1&iscss=1&snapid=1&lang=en)
 2. Fan Magnetic Resonance (MR) Imaging Research Lab. Supervisor: [Prof. Fan zhaoyang](https://profiles.sc-ctsi.org/zhaoyang.fan)
+3. Valero Lab. Supervisor: [Franciso Valero-Curevas](https://valerolab.org/projects/)
 
 
 ## Ongoing Research Projects
