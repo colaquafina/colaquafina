@@ -60,6 +60,10 @@ Here are some of my research papers and articles published in scientific journal
   - **Submitted to:** Neuroimage
   - **Co-authors:** Zhichao Liang, **Jushen Wu**, Yinuo Zhang, Quanying Liu
   - **Status:** Under review
+1. **Developing a radiomics model to predict tumor consistency of pituitary adenomas using multicenter MRI data**
+  - **Submitted to:** ISMRM 2025
+  - **Co-authors:** **Jushen Wu**,Pengcheng Wang, Jiayu Xiao, Gabriel Zada, Zhaoyang Fan
+  - **Status:** Under Revision
 
 ## Interests
 🛹Skateboard, 💪Gym, 🎸Guitar, 🎹Piano,🕺Breaking, 🏀Basketball
