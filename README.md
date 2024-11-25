@@ -44,12 +44,13 @@
 2. **Use radiomics and deep learning to predict the pituitary adenoma consistency**.
    - *About*: Pituitary macroadenoma consistency can influence the ease of lesion removal during surgery, especially when using a transsphenoidal approach. Unfortunately, it is not assessable on standard qualitative MRI. In this research, we want to combine radiomics, deep learning, and transfer learning to solve this problem with MRI images.
    - *Method*: For radiomics part, We collect the MRI images of pituitary adenoma of patients and preprocess the images. Then we use Pyradiomics to extract the features from the images and then use the Extra Tree Classifier to determine adenoma consistency. For the deep learning part, we use the U-net to extract the image features, then we freeze the parameters of the down-sampling and use the output of the U-net down sampling as the input of a classifier model to predict the adenoma consistency. We can get the classification result by combining results from two paths
+   - Diagram of the research:
+     ![diagram_2 drawio](https://github.com/user-attachments/assets/0f672d14-8c52-4e6a-829a-80944e07a69c)
   
 3. **Use GNN to detect and classify the seizure according to the EEG data**.
    - *About*: Seizure is a common neuro degenerative disease. The diagnose of seizre is based on the analysis of the EEG data, which is time-consumting and low accuracy. Therefore, in this project, we try to use the deep learning method to improve the process of auto seizure detection and classification from the EEG data.
    - *Method*: To build a network based on the EEG data, it is necessary to include the connection between the EEG channles. Therefore GNN is used in this research to build network model.
-   - Diagram of the research:
-     ![diagram_2 drawio](https://github.com/user-attachments/assets/0f672d14-8c52-4e6a-829a-80944e07a69c)
+
 
 
 ## Publications
