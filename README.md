@@ -77,6 +77,5 @@ Here are some of my research papers and articles published in scientific journal
 ## Connect with Me
 
 - [gsonwu@gmail.com](mailto:gsonwu@gmail.com)
-- [Curriculum Vitae](https://www.overleaf.com/read/knhkpgqkmthk#694ad0)
 - [Twitter](https://x.com/jushenwu)
 
