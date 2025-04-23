@@ -63,9 +63,9 @@ Here are some of my research papers and articles published in scientific journal
    - **Published In:** IEEE Engineering in Medicine and Biology Society, 2024
 
 2. **Developing a radiomics model to predict tumor consistency of pituitary adenomas using multicenter MRI data**
-  - **Submitted to:** ISMRM 2025
-  - **Co-authors:** **Jushen Wu**,Pengcheng Wang, Jiayu Xiao, Gabriel Zada, Zhaoyang Fan
-  - **Status:** Accepted as Poster
+   - **Submitted to:** ISMRM 2025
+   - **Co-authors:** **Jushen Wu**,Pengcheng Wang, Jiayu Xiao, Gabriel Zada, Zhaoyang Fan
+   - **Status:** Accepted as Poster
 
 ### Recent Submissions
 
