@@ -10,7 +10,7 @@
 `Computational Neuroscience` `MRI technology` `CV in medical imaging` `Optimization theory`
 
 ## Education
-1. In progress (expected graduation 06/2025)
+1. In progress (expected graduation 05/2025)
    
    **University of Southern California (USC)**
    - **Degree:** Master of Science in Biomedical Engineering
@@ -34,7 +34,7 @@
 
 
 ## Ongoing Research Projects
-
+1. **Using test-time adaptation (TTA) to predict the consistency level of the pituitary adenomas**
   
 
 ## Finished Project
