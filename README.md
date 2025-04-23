@@ -50,7 +50,7 @@
   
 3. **Use radiomics to predict the pituitary adenoma consistency**.
    - *About*: Pituitary macroadenoma consistency can influence the ease of lesion removal during surgery, especially when using a transsphenoidal approach. Unfortunately, it is not assessable on standard qualitative MRI. In this research, we want to use radiomics to solve this problem with MRI images.
-   - *Method*: For radiomics part, We collect the MRI images of pituitary adenoma of patients and preprocess the images. Then we use Pyradiomics to extract the features from the images and then use the Feature Gradient and the Random Forest to do the feature engineering to produce the optimal feature subset. The feature subset is applied as the input to the fine-tune random forest model to predict the consistency level of the pituitary adenomas in the testing set.
+   - *Method*: We collect the MRI images of pituitary adenoma of patients and preprocess the images. Then we use Pyradiomics to extract the features from the images and then use the Feature Gradient and the Random Forest to do the feature engineering to produce the optimal feature subset. The feature subset is applied as the input to the fine-tune random forest model to predict the consistency level of the pituitary adenomas in the testing set.
    - Diagram of the research:
       ![diagram_2](https://github.com/user-attachments/assets/5eb7cebc-926f-499d-b990-e4e51d7bce43)
 
