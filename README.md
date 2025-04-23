@@ -66,6 +66,7 @@ Here are some of my research papers and articles published in scientific journal
   - **Submitted to:** ISMRM 2025
   - **Co-authors:** **Jushen Wu**,Pengcheng Wang, Jiayu Xiao, Gabriel Zada, Zhaoyang Fan
   - **Status:** Accepted as Poster
+
 ### Recent Submissions
 
 
