@@ -35,7 +35,9 @@
 
 ## Ongoing Research Projects
 1. **Using test-time adaptation (TTA) to predict the consistency level of the pituitary adenomas**
-  
+   - *About*: The effects of the deep learning would drop a lot when the testing set has a large different distribution with the training domain, especially when the size of the training is small, which is a common scenario in the medical image processing. TTA is a kind of technique which can improve the model performance in the datasets from other domains, without requiring the knowledge from the original domain and can be adapted to multi testing domain. In this study, we would train a based segmentation model with TTA, then use the transfer learning to change the head of the segmentation model to predict the consistency level of the pituitary adenomas.
+   - *Method*: Dataset is splitted into training (data from a single institution) and testing (data from multi institutions). The segmentation model would be trained on the training data at first, and then include the TTA during the testing. After that, the segmentation model is freezed and transfer learning is applied to predict the consistency level.
+
 
 ## Finished Project
 1. **Use network control theory to identify the critical nodes and input signals from task fMRI**.
