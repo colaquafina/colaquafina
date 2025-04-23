@@ -15,7 +15,7 @@
    **University of Southern California (USC)**
    - **Degree:** Master of Science in Biomedical Engineering
    - **Location:** Los Angeles, California, USA
-   - **GPA:** 4.0/4.0 
+   - **GPA:** 3.7/4.0 
 
 2. 09/2019 - 06/2023
 
