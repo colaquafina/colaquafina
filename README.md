@@ -10,14 +10,21 @@
 `Computational Neuroscience` `MRI technology` `CV in medical imaging` `Optimization theory`
 
 ## Education
-1. In progress (expected graduation 05/2025)
+1. In progress (expected graduation 05/2030)
+   
+   **University of NorthCarolina at Chapel Hill (UNC)**
+   - **Degree:** Ph.D. in Biomedical Engineering
+   - **Location:** Chapel Hill, North Carolina, USA
+   
+
+2. 09/2023 - 05/2025
    
    **University of Southern California (USC)**
    - **Degree:** Master of Science in Biomedical Engineering
    - **Location:** Los Angeles, California, USA
    - **GPA:** 3.7/4.0 
 
-2. 09/2019 - 06/2023
+3. 09/2019 - 06/2023
 
    **Southern University of Science and Technology (SUSTech)**
    - **Degree:** Bachelor of Science in Biomedical Engineering
