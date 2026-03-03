@@ -1,7 +1,7 @@
 # Hello, I'm Gson
 
 - Welcome to my GitHub profile!
-- 🤔 I am a master student in Biomedical Engineering, working with [Prof. Fan zhaoyang](https://profiles.sc-ctsi.org/zhaoyang.fan) at the [Fan Magnetic Resonance (MR) Imaging Research Lab](https://sites.usc.edu/fan-mri-lab/) at the University of Southern California, Los Angeles, America.
+- 🤔 I am a PhD student in Biomedical Engineering, working with [Prof. Li Guoshi](https://www.med.unc.edu/radiology/people/guoshi-li/) at the University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
 - "Attendre et espérer.”
 - 📫 Reach me at  [gsonwu@gmail.com](mailto:gsonwu@gmail.com)
 
@@ -14,7 +14,7 @@
    
    **University of NorthCarolina at Chapel Hill (UNC)**
    - **Degree:** Ph.D. in Biomedical Engineering
-   - **Location:** Chapel Hill, North Carolina, USA
+   - **Location:** Chapel Hill, NC, USA
    
 
 2. 09/2023 - 05/2025
@@ -36,8 +36,9 @@
 
 ## Research Experiences
 1. Neural Computing and Control Laboratory. Supervisor: [Prof. Quanying Liu](https://faculty.sustech.edu.cn/?tagid=liuqy&go=1&iscss=1&snapid=1&lang=en)
-2. Fan Magnetic Resonance (MR) Imaging Research Lab. Supervisor: [Prof. Fan zhaoyang](https://profiles.sc-ctsi.org/zhaoyang.fan)
+2. Fan Magnetic Resonance (MR) Imaging Research Lab. Supervisor: [Prof. Zhaoyang Fan](https://profiles.sc-ctsi.org/zhaoyang.fan)
 3. Valero Lab. Supervisor: [Franciso Valero-Curevas](https://valerolab.org/projects/)
+4. TRANSCEND. Supervisor: [Dr. Guoshi Li](https://guoshi.web.unc.edu/)
 
 
 ## Ongoing Research Projects
