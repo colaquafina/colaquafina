@@ -10,7 +10,7 @@
 `Computational Neuroscience` `MRI technology` `CV in medical imaging` `Optimization theory`
 
 ## Education
-1. In progress (expected graduation 05/2030)
+1. In progress 09/ 2025 -
    
    **University of NorthCarolina at Chapel Hill (UNC)**
    - **Degree:** Ph.D. in Biomedical Engineering
