@@ -1,7 +1,7 @@
 # Hello, I'm Gson
 
 - Welcome to my GitHub profile!
-- 🤔 I am a PhD student in Biomedical Engineering, working with [Prof. Li Guoshi](https://www.med.unc.edu/radiology/people/guoshi-li/) at the University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+- 🤔 I am a PhD student in Biomedical Engineering, working with [Prof. Guoshi Li](https://www.med.unc.edu/radiology/people/guoshi-li/) at the University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
 - "Attendre et espérer.”
 - 📫 Reach me at  [gsonwu@gmail.com](mailto:gsonwu@gmail.com)
 
