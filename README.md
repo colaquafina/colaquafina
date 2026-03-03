@@ -42,7 +42,8 @@
 
 
 ## Ongoing Research Projects
-1. **Using test-time adaptation (TTA) to predict the consistency level of the pituitary adenomas**
+1. **Develope a framework for non-invasive estimation of excitatory-inhibitory balance for fMRI**
+2. **Using test-time adaptation (TTA) to predict the consistency level of the pituitary adenomas**
    - *About*: The effects of the deep learning would drop a lot when the testing set has a large different distribution with the training domain, especially when the size of the training is small, which is a common scenario in the medical image processing. TTA is a kind of technique which can improve the model performance in the datasets from other domains, without requiring the knowledge from the original domain and can be adapted to multi testing domain. In this study, we would train a based segmentation model with TTA, then use the transfer learning to change the head of the segmentation model to predict the consistency level of the pituitary adenomas.
    - *Method*: Dataset is splitted into training (data from a single institution) and testing (data from multi institutions). The segmentation model would be trained on the training data at first, and then include the TTA during the testing. After that, the segmentation model is freezed and transfer learning is applied to predict the consistency level.
 
@@ -75,9 +76,13 @@ Here are some of my research papers and articles published in scientific journal
 
 2. **Developing a radiomics model to predict tumor consistency of pituitary adenomas using multicenter MRI data**
    - **Authors:** **Jushen Wu**,Pengcheng Wang, Jiayu Xiao, Gabriel Zada, Zhaoyang Fan
-   - **Published:** Accepted as Poster, ISMRM 2025
-
+   - **Published:** ISMRM 2025
+  
+3. **Validation of a nonlinear large-scale neural model inversion using magnetic resonance spectroscopy**
+   - **Authors:** **Jushen Wu**, Khoi Minh Huynh, Uzay E Emir, Pew-Thian Yap, Guoshi Li
+   - **Published:** OHBM 2026
 ### Recent Submissions
+1. **BEAM: Whole-Brain Excitation-Inhibition Analysis Model based on Functional MRI**
 
 
 ## Interests
